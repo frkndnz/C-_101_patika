@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.exe
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.deps.json
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.dll
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\ref\console_programmıng.dll
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\bin\Debug\net5.0\console_programmıng.pdb
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.dll
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\ref\console_programmıng.dll
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.pdb
+C:\Users\lenovo\Desktop\fd_101\console_programmıng\obj\Debug\net5.0\console_programmıng.genruntimeconfig.cache
