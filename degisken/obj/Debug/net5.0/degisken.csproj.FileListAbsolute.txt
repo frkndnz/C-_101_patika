@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
