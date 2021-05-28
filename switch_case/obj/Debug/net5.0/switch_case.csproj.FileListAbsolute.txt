@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\ref\switch_case.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\bin\Debug\net5.0\switch_case.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\ref\switch_case.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\switch_case\obj\Debug\net5.0\switch_case.genruntimeconfig.cache
