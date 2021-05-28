@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\ref\array_sınıfı_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\bin\Debug\net5.0\array_sınıfı_metotlar.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\ref\array_sınıfı_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\array_sınıfı_metotlar\obj\Debug\net5.0\array_sınıfı_metotlar.genruntimeconfig.cache
