@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\ref\tıp_donusumlerı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\bin\Debug\net5.0\tıp_donusumlerı.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\ref\tıp_donusumlerı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\tıp_donusumlerı\obj\Debug\net5.0\tıp_donusumlerı.genruntimeconfig.cache
