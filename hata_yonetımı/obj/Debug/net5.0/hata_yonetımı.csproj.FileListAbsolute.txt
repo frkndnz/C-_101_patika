@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\ref\hata_yonetımı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\bin\Debug\net5.0\hata_yonetımı.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\ref\hata_yonetımı.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hata_yonetımı\obj\Debug\net5.0\hata_yonetımı.genruntimeconfig.cache
