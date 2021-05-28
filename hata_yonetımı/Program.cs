@@ -6,12 +6,15 @@ namespace hata_yonetımı
     {
         static void Main(string[] args)
         {
-           
+            
           try
           {
+                Console.WriteLine("bir sayını giriniz:");
+               int  sayı1=Convert.ToInt32(Console.ReadLine());
+               Console.WriteLine(sayı1);
                 // int a =int.Parse(null);
               //int a = int.Parse("test");
-              int ab = int.Parse("-2000000000000");
+              // int ab = int.Parse("-2000000000000");
 
           }
           catch(ArgumentNullException ex)
