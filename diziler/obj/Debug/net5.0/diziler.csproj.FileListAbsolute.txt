@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\ref\diziler.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\bin\Debug\net5.0\diziler.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\ref\diziler.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
