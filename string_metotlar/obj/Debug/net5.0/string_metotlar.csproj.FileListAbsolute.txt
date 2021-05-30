@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\ref\string_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\bin\Debug\net5.0\string_metotlar.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\ref\string_metotlar.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\string_metotlar\obj\Debug\net5.0\string_metotlar.genruntimeconfig.cache
