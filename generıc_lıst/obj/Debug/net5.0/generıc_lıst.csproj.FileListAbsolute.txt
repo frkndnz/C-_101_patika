@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\ref\generıc_lıst.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\bin\Debug\net5.0\generıc_lıst.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\ref\generıc_lıst.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\generıc_lıst\obj\Debug\net5.0\generıc_lıst.genruntimeconfig.cache
