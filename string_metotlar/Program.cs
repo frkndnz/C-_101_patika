@@ -17,7 +17,7 @@ namespace string_metotlar
 
             // concat
 
-            Console.WriteLine(string.Concat(degisken,"merhaba."));
+            Console.WriteLine(string.Concat(degisken,"merhaba.")); // birleştir
 
             //compare compareto
             Console.WriteLine(degisken.CompareTo(degisken2)); // 1,0,-1 (büyükse 1 eşitse 0 küçükse -1)

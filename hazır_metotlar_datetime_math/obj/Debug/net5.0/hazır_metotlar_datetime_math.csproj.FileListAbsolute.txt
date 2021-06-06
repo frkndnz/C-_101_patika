@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.exe
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.deps.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.runtimeconfig.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\ref\hazır_metotlar_datetime_math.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\bin\Debug\net5.0\hazır_metotlar_datetime_math.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\ref\hazır_metotlar_datetime_math.dll
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.pdb
+C:\Users\lenovo\Desktop\fd_101\C-_101_patika\hazır_metotlar_datetime_math\obj\Debug\net5.0\hazır_metotlar_datetime_math.genruntimeconfig.cache
